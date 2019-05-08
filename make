@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cc llnode.cc -o a.out -I.
